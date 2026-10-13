@@ -1,0 +1,6 @@
+{
+  "name": "MediKiosk - Multilingual Healthcare Intake & Clinical Triage",
+  "description": "Smart outpatient healthcare kiosk featuring ABHA digital ID login, multilingual audio-visual intake, prescription scanner, triage red-flag detection, and physician dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
